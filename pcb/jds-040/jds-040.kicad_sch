@@ -1521,7 +1521,7 @@
     (property "Reference" "C1" (at 52.07 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 52.07 82.55 0)
+    (property "Value" "10nF" (at 52.07 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 60.96 81.28 0)
