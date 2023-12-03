@@ -56,9 +56,7 @@
         }
       ],
       "drc_exclusions": [
-        "lib_footprint_mismatch|95650000|92125000|4164a04b-6f3a-413d-a7e9-524cbcf64518|00000000-0000-0000-0000-000000000000",
-        "missing_courtyard|93218000|95250000|f1fe72e9-9720-4d06-8515-459871cb6bb0|00000000-0000-0000-0000-000000000000",
-        "text_height|99155716|100365307|ec5f9b15-0755-4f69-ae37-d616c4d55038|00000000-0000-0000-0000-000000000000"
+        "lib_footprint_mismatch|95650000|92125000|4164a04b-6f3a-413d-a7e9-524cbcf64518|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -117,7 +115,7 @@
         "max_error": 0.005,
         "min_clearance": 0.13,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.19999999999999998,
+        "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.35,
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.19999999999999998,
