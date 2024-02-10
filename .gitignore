@@ -27,3 +27,12 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Fabrication outputs
+*-fab
+*.gbl
+*.gbs
+*.gbo
+*.gm1
+*.gts
+*.drl
