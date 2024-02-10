@@ -9,6 +9,7 @@
     (date "2024-02-10")
     (rev "1.1")
     (company "Petr Moucha")
+    (comment 2 "Licensed under CERN-OHL-W v2")
   )
 
   (lib_symbols
