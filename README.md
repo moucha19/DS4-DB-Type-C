@@ -5,7 +5,7 @@
 * Almost drop-in replacement **for JDS-040**
     + Original dimensions are maintained
     + Screw hole is in the right spot
-    + However, you still need to enlarge the connector hole in the controller case
+    + However, you still need to enlarge the connector hole in the controller case - obviously
 * Compatible with USB-C to USB-C cables
 * Board schematic is as close as possible to the original
 * All components can be purchased from [LCSC](https://www.lcsc.com/)
@@ -36,15 +36,15 @@ This is a very small and finicky board. I made no optimizations for the SMT asse
 
 Hot air gun is very handy, especially for soldering of the USB-C and FPC connectors. In my opinion, the easiest method is to tin all of the pads first and then simply position the connectors under the hot air. Rest of the components is manageable with a reasonably fine soldering iron.
 
-# Mounting instructions
+## Mounting instructions
 
-I would highly recommend you to watch instruction video from Marius Heier, on [YouTube](https://www.youtube.com/watch?v=nGKyBJVDXDQ). He created it as a guide for mounting of his own USB-C DualShock 4 mods and his advice on how to enlarge the charging port hole is excellent. Definitely start from the inside first. It might be tempting to grab a Dremel but I proceeded just like in the video, manually with a small file. 
+I would highly recommend you to watch instruction video from Marius Heier, on [YouTube](https://www.youtube.com/watch?v=nGKyBJVDXDQ). He created it as a guide for mounting of his own USB-C DualShock 4 mods and his advice on how to enlarge the charging port hole is excellent. Definitely start from the inside first. It might be tempting to grab a Dremel but it's safer to proceed just like in the video, manually with a small file. 
 
 Some additional advice that I can give after going through the process is to take it slow once you start making the charging port hole larger. You absolutely **MUST** take away some material both from top and bottom of the hole. One mistake I did was that I focused on the bottom first and then went a little overboard. I should've proceeded symmetricaly because the top also had to be filed down. You can find detailed photos below so you have some idea where roughly to stop. The USB symbol is a good reference.
 
 ![Front detail on the hole](img/hole_detail_a.jpg)
 
-The toughest challenge when designing the board was deciding where exactly to position the charging port. I did not want it to protrude too much but on the other hand, I did not want it to be buried, with a visible gap between the plastic and the edge of the connector. In the end, this is how it looks and I'm quite satisfied with the result. The bottom of the connector is visible a little bit, but the top edge is in the ideal position. Anyways, here is a detail so you easily decide to modify the board and shift the connector in either direction based on your preference. The protrusion is roughly **0.4 mm**.
+The toughest challenge when designing the board was deciding where exactly to position the charging port. I did not want it to protrude but on the other hand, I did not want to bury it too much, with a visible gap between the plastic and the edge of the connector. In the end, this is how it looks and I'm quite satisfied with the result. The bottom of the connector is visible a little bit, but the top edge is in the ideal position. Anyways, here is a detail so you easily decide to modify the board and shift the connector in either direction based on your preference. The protrusion is roughly **0.4 mm**.
 
 ![Front detail on the hole](img/hole_detail_b.jpg)
 
