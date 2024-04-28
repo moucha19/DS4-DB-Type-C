@@ -3809,7 +3809,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f63b3c9-56c0-4b4b-bd2d-e30f37e5a800")
-		(property "Reference" "F2"
+		(property "Reference" "F1"
 			(at 66.04 71.12 90)
 			(effects
 				(font
@@ -3872,7 +3872,7 @@
 		(instances
 			(project "jds-040"
 				(path "/6878427b-1c14-4846-8103-c4c03da88062"
-					(reference "F2")
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -4714,7 +4714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eec8c08c-8cae-4e28-a49f-177ee818cb66")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 71.12 85.09 0)
 			(effects
 				(font
@@ -4782,7 +4782,7 @@
 		(instances
 			(project "jds-040"
 				(path "/6878427b-1c14-4846-8103-c4c03da88062"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)

@@ -23,8 +23,8 @@ You can find the archive with Gerber files in the releases section.
 | Designator | Footprint                                                 | LCSC    |
 |------------|-----------------------------------------------------------|---------|
 | C1         | 10nF  SMD 0402 Capacitor | [C15195](https://www.lcsc.com/product-detail/C15195.html)  |
-| D2         | LED RGB Foshan FM-3510RGBA-SG           | [C727903](https://www.lcsc.com/product-detail/C727903.html) |
-| F2         | 6V 750mA SMD 0603 Fuse       | [C207016](https://www.lcsc.com/product-detail/C207016.html) |
+| D1         | LED RGB Foshan FM-3510RGBA-SG           | [C727903](https://www.lcsc.com/product-detail/C727903.html) |
+| F1         | 6V 750mA SMD 0603 Fuse       | [C207016](https://www.lcsc.com/product-detail/C207016.html) |
 | FL1        | TDK MCZ1210DH Common mode filter              | [C383353](https://www.lcsc.com/product-detail/C383353.html) |
 | J1         | USB-C Receptacle GT-USB-7025             | [C963213](https://www.lcsc.com/product-detail/C963213.html) |
 | J2         | JUSHUO AFC42-S12FMA-1H or MOLEX 5034801200 | [C466532](https://www.lcsc.com/product-detail/C466532.html) or [C587969](https://www.lcsc.com/product-detail/C587969.html) |

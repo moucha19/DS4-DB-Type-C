@@ -805,7 +805,7 @@
 		(layer "F.Cu")
 		(uuid "61f214ec-ad17-4b57-acbe-1731554b1e97")
 		(at 96.066 78.808 180)
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 0.05 2 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -1227,7 +1227,7 @@
 		(at 98.666 65.278 90)
 		(descr "Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse handsolder")
-		(property "Reference" "F2"
+		(property "Reference" "F1"
 			(at 0 1.414214 90)
 			(layer "F.SilkS")
 			(hide yes)
